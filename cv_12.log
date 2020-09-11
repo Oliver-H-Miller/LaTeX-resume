@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.7) (preloaded format=xelatex 2020.9.4)  11 SEP 2020 00:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.7) (preloaded format=xelatex 2020.9.4)  11 SEP 2020 10:05
 entering extended mode
 **./cv_12.tex
 (cv_12.tex
@@ -626,17 +626,17 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 52.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 225.
+(Font)              <7> on input line 221.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 225.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
+(Font)              <5> on input line 221.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 272.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 272.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
 Package rerunfilecheck Info: File `cv_12.out' has not changed.
 (rerunfilecheck)             Checksum: 5E36393FDB707342DA8124A15C7EF8D7;677.
 
@@ -647,14 +647,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
  ) 
 Here is how much of TeX's memory you used:
- 12318 strings out of 414493
- 234401 string characters out of 2903060
- 560356 words of memory out of 3000000
- 29393 multiletter control sequences out of 15000+200000
- 537692 words of font info for 88 fonts, out of 3000000 for 9000
+ 12327 strings out of 414493
+ 234664 string characters out of 2903060
+ 559356 words of memory out of 3000000
+ 29396 multiletter control sequences out of 15000+200000
+ 537740 words of font info for 94 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,12n,123p,307b,537s stack positions out of 5000i,500n,10000p,200000b,50000s
 
